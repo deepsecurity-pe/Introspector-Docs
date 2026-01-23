@@ -1,6 +1,6 @@
 ---
 title: Home2
-layout: home3
+layout: home
 ---
 
 # 🧠 Introspector Framework
