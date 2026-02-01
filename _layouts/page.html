@@ -4,9 +4,6 @@ layout: default
 
 {% if page.hero %}
 <div class="hero">
-  <h1>{{ page.hero.title }}</h1>
-  <p class="tagline">{{ page.hero.tagline }}</p>
-  
   {% if page.hero.buttons %}
   <div class="button-grid">
     {% for btn in page.hero.buttons %}
