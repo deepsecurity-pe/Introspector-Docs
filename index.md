@@ -2,22 +2,20 @@
 layout: page
 show_title: false
 hero:
-  title: Introspector
-  tagline: Execution-trace visibility for HTTP & DNS exploitation
   buttons:
-    - url: /getting-started/quickstart/
+    - url: /quickstart/
       text: Quickstart
       icon: 🚀
       description: Run a session, open the log UI, and generate payloads in minutes
-    - url: /concepts/mental-model/
+    - url: /mental-model/
       text: Mental Model
       icon: 🧠
       description: Understand how to interpret callbacks like execution traces
-    - url: /reference/commands/
+    - url: /commands/
       text: Commands
       icon: 📚
       description: Complete command reference for framework control
-    - url: /screenshots/ui/
+    - url: /ui/
       text: Screenshots
       icon: 🖼️
       description: See the UI and workflow in action
